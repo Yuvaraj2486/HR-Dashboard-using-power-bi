@@ -11,5 +11,3 @@ Job Satisfaction: Table detailing satisfaction levels (1-4) across various job r
 Education Field-wise Attrition: Bar chart illustrating attrition by education field (e.g., Life Sciences: 89, Medical: 33).
 Attrition Rate by Gender and Age Group: Pie charts showing attrition rates for different age groups and genders.
 
-Screenshots:
-[HR Analytics Dashboard](BI Dashboard.JPG) USE EMOJI AND NO  SYSMBOIO I NEED README FOR GITHUB
